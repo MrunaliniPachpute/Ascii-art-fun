@@ -12,19 +12,7 @@ A fun and simple web app that converts any text into cool ASCII art using **Node
 - 🎨 Styled output displayed in-browser
 
 ---
-
-Type → Hello
-
-See →
-
- _   _      _ _
-| | | | ___| | | ___
-| |_| |/ _ \ | |/ _ \
-|  _  |  __/ | | (_) |
-|_| |_|\___|_|_|\___/
-
------
-
+## 🌟 Preview
 <p align="center">
   <img src="./output.png" alt="ASCII Art Generator Preview" width="600"/>
 </p>
