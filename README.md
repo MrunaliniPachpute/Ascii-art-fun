@@ -26,5 +26,5 @@ See →
 -----
 
 <p align="center">
-  <img src="./demo.png" alt="ASCII Art Generator Preview" width="600"/>
+  <img src="./output.png" alt="ASCII Art Generator Preview" width="600"/>
 </p>
